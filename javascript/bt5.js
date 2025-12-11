@@ -1,0 +1,14 @@
+let a = 15;
+let b = 4;
+let tong = a+b;
+let hieu = a-b;
+let tich = a*b;
+let thuong = a/b;
+let duSo = a%b;
+let luyThua = a**b;
+console.log ("tổng (a+b):" , tong);
+console.log ("hiệu (a-b):", hieu);
+console.log ("tích (a*b):", tich);
+console.log ("thương (a/b):", thuong);
+console.log ("dư số (a%b):", duSo);
+console.log ("lũy thừa (a**b):", luyThua);
